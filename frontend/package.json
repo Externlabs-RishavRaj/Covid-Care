@@ -1,0 +1,30 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "next": "next dev -p 3002",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@react-google-maps/api": "^2.1.1",
+    "emailjs-com": "^2.6.4",
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-copy-to-clipboard": "^5.0.3",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-player": "^2.9.0",
+    "react-scroll": "^1.8.2",
+    "simple-peer": "^9.11.0",
+    "socket.io-client": "^4.0.1"
+  }
+}
